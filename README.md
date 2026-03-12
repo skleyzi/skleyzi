@@ -37,9 +37,3 @@ Technical focus on building reliable backend systems and modular architectures. 
     </td>
   </tr>
 </table>
-
----
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=skleyzi&theme=github_dark_dimmed&hide_border=true&stroke=3982CE&background=0d1117&ring=3982CE&fire=3982CE&currStreakNum=c9d1d9" width="100%" />
-</p>
